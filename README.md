@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Linos2508
-- 👀 I’m interested in TypeScript, Python and all Web programming lenguages
-- 🌱 I’m currently learning Typescript and NodeJS
+- 👀 I’m interested in TypeScript, Python and ReactJS 
+- 🌱 I’m currently learning NodeJS
 - 📫 How to reach me 
 by Email: epm_1998_eti@hotmail.com
+By: Phone Number: +525572037160
